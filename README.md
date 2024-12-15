@@ -1,8 +1,4 @@
-export this variable
-```bash
-export GITLAB_HOME=/Users/apple/Documents/GitHub/GitLab
-```
-and up your gitlab docker compose
+up your gitlab docker compose
 ```bash
 docker compose up -d
 ```
